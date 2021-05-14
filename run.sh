@@ -1,0 +1,9 @@
+python3 avg.py
+python3 glove.py
+python3 temp1.py
+python3 temp2.py
+python3 temp3.py
+python3 margin.py
+python3 svm.py
+python3 logistic.py
+python3 Ensemble.py
