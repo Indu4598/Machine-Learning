@@ -5,11 +5,11 @@
 defendant’s gender, number of victims, victims’ gender. offence category, and offence subcategory details are available to develop classification systems. These details from here on are referred as miscellaneous attributes.  </p>
 
 <h4>Table1</h4>
- | Formats of Data           | 
- |:-------------:|
- | Bag of Words | 
- | Glove      |   
- | Tf-idf      |   
+ | Formats of Data | 
+ |:-------------:  |
+ | Bag of Words    | 
+ | Glove           |   
+ | Tf-idf          |   
 
 
 
